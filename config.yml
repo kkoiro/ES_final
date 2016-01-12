@@ -1,0 +1,2 @@
+usb_port: /dev/usb_example
+bluetooth_port: /dev/bluetooth_example
