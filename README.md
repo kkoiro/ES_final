@@ -9,5 +9,5 @@ bundle install
 Edit "config.yml" acooding to your environment
 
 ## Usage
-Just type *'bundle exec ruby get_sensor_data.rb'*
+Just type **'bundle exec ruby get_sensor_data.rb'**
 
